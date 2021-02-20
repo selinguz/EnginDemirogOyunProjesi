@@ -1,0 +1,13 @@
+C:\Users\selin\source\repos\EnginDemirogOyunProjesi\EnginDemirogOyunProjesi\obj\Debug\netcoreapp3.1\EnginDemirogOyunProjesi.csprojAssemblyReference.cache
+C:\Users\selin\source\repos\EnginDemirogOyunProjesi\EnginDemirogOyunProjesi\obj\Debug\netcoreapp3.1\EnginDemirogOyunProjesi.AssemblyInfoInputs.cache
+C:\Users\selin\source\repos\EnginDemirogOyunProjesi\EnginDemirogOyunProjesi\obj\Debug\netcoreapp3.1\EnginDemirogOyunProjesi.AssemblyInfo.cs
+C:\Users\selin\source\repos\EnginDemirogOyunProjesi\EnginDemirogOyunProjesi\obj\Debug\netcoreapp3.1\EnginDemirogOyunProjesi.csproj.CoreCompileInputs.cache
+C:\Users\selin\source\repos\EnginDemirogOyunProjesi\EnginDemirogOyunProjesi\bin\Debug\netcoreapp3.1\EnginDemirogOyunProjesi.exe
+C:\Users\selin\source\repos\EnginDemirogOyunProjesi\EnginDemirogOyunProjesi\bin\Debug\netcoreapp3.1\EnginDemirogOyunProjesi.deps.json
+C:\Users\selin\source\repos\EnginDemirogOyunProjesi\EnginDemirogOyunProjesi\bin\Debug\netcoreapp3.1\EnginDemirogOyunProjesi.runtimeconfig.json
+C:\Users\selin\source\repos\EnginDemirogOyunProjesi\EnginDemirogOyunProjesi\bin\Debug\netcoreapp3.1\EnginDemirogOyunProjesi.runtimeconfig.dev.json
+C:\Users\selin\source\repos\EnginDemirogOyunProjesi\EnginDemirogOyunProjesi\bin\Debug\netcoreapp3.1\EnginDemirogOyunProjesi.dll
+C:\Users\selin\source\repos\EnginDemirogOyunProjesi\EnginDemirogOyunProjesi\bin\Debug\netcoreapp3.1\EnginDemirogOyunProjesi.pdb
+C:\Users\selin\source\repos\EnginDemirogOyunProjesi\EnginDemirogOyunProjesi\obj\Debug\netcoreapp3.1\EnginDemirogOyunProjesi.dll
+C:\Users\selin\source\repos\EnginDemirogOyunProjesi\EnginDemirogOyunProjesi\obj\Debug\netcoreapp3.1\EnginDemirogOyunProjesi.pdb
+C:\Users\selin\source\repos\EnginDemirogOyunProjesi\EnginDemirogOyunProjesi\obj\Debug\netcoreapp3.1\EnginDemirogOyunProjesi.genruntimeconfig.cache
