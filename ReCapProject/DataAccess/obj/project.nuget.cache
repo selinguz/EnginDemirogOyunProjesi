@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1wiAcj95ndb/Yieg63ATDcizlk3N8S7nwDWAWXrt4/fceIUe5ws7PEgpp1X33JA0FcL9/G9FK/CgjDw27KLQFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\selin\\source\\repos\\ReCapProject\\DataAccess\\DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\selin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\selin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
