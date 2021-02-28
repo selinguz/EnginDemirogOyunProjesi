@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\selin\\source\\repos\\EnginDemirogOyunProjesi\\EnginDemirogOyunProjesi\\EnginDemirogOyunProjesi.csproj": {}
+    "C:\\Users\\selin\\OneDrive\\Documents\\GitHub\\EnginDemirogYazilimciGelistirmeKampi\\EnginDemirogOyunProjesi\\EnginDemirogOyunProjesi\\EnginDemirogOyunProjesi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\selin\\source\\repos\\EnginDemirogOyunProjesi\\EnginDemirogOyunProjesi\\EnginDemirogOyunProjesi.csproj": {
+    "C:\\Users\\selin\\OneDrive\\Documents\\GitHub\\EnginDemirogYazilimciGelistirmeKampi\\EnginDemirogOyunProjesi\\EnginDemirogOyunProjesi\\EnginDemirogOyunProjesi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\selin\\source\\repos\\EnginDemirogOyunProjesi\\EnginDemirogOyunProjesi\\EnginDemirogOyunProjesi.csproj",
+        "projectUniqueName": "C:\\Users\\selin\\OneDrive\\Documents\\GitHub\\EnginDemirogYazilimciGelistirmeKampi\\EnginDemirogOyunProjesi\\EnginDemirogOyunProjesi\\EnginDemirogOyunProjesi.csproj",
         "projectName": "EnginDemirogOyunProjesi",
-        "projectPath": "C:\\Users\\selin\\source\\repos\\EnginDemirogOyunProjesi\\EnginDemirogOyunProjesi\\EnginDemirogOyunProjesi.csproj",
+        "projectPath": "C:\\Users\\selin\\OneDrive\\Documents\\GitHub\\EnginDemirogYazilimciGelistirmeKampi\\EnginDemirogOyunProjesi\\EnginDemirogOyunProjesi\\EnginDemirogOyunProjesi.csproj",
         "packagesPath": "C:\\Users\\selin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\selin\\source\\repos\\EnginDemirogOyunProjesi\\EnginDemirogOyunProjesi\\obj\\",
+        "outputPath": "C:\\Users\\selin\\OneDrive\\Documents\\GitHub\\EnginDemirogYazilimciGelistirmeKampi\\EnginDemirogOyunProjesi\\EnginDemirogOyunProjesi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\selin\\AppData\\Roaming\\NuGet\\NuGet.Config",
