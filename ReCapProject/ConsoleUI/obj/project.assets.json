@@ -71,11 +71,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\selin\\source\\repos\\ReCapProject\\ConsoleUI\\ConsoleUI.csproj",
+      "projectUniqueName": "C:\\Users\\selin\\OneDrive\\Documents\\GitHub\\EnginDemirogYazilimciGelistirmeKampi\\ReCapProject\\ConsoleUI\\ConsoleUI.csproj",
       "projectName": "ConsoleUI",
-      "projectPath": "C:\\Users\\selin\\source\\repos\\ReCapProject\\ConsoleUI\\ConsoleUI.csproj",
+      "projectPath": "C:\\Users\\selin\\OneDrive\\Documents\\GitHub\\EnginDemirogYazilimciGelistirmeKampi\\ReCapProject\\ConsoleUI\\ConsoleUI.csproj",
       "packagesPath": "C:\\Users\\selin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\selin\\source\\repos\\ReCapProject\\ConsoleUI\\obj\\",
+      "outputPath": "C:\\Users\\selin\\OneDrive\\Documents\\GitHub\\EnginDemirogYazilimciGelistirmeKampi\\ReCapProject\\ConsoleUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\selin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -92,14 +92,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\selin\\source\\repos\\ReCapProject\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\selin\\source\\repos\\ReCapProject\\Business\\Business.csproj"
+            "C:\\Users\\selin\\OneDrive\\Documents\\GitHub\\EnginDemirogYazilimciGelistirmeKampi\\ReCapProject\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\selin\\OneDrive\\Documents\\GitHub\\EnginDemirogYazilimciGelistirmeKampi\\ReCapProject\\Business\\Business.csproj"
             },
-            "C:\\Users\\selin\\source\\repos\\ReCapProject\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\selin\\source\\repos\\ReCapProject\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\selin\\OneDrive\\Documents\\GitHub\\EnginDemirogYazilimciGelistirmeKampi\\ReCapProject\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\selin\\OneDrive\\Documents\\GitHub\\EnginDemirogYazilimciGelistirmeKampi\\ReCapProject\\DataAccess\\DataAccess.csproj"
             },
-            "C:\\Users\\selin\\source\\repos\\ReCapProject\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\selin\\source\\repos\\ReCapProject\\Entities\\Entities.csproj"
+            "C:\\Users\\selin\\OneDrive\\Documents\\GitHub\\EnginDemirogYazilimciGelistirmeKampi\\ReCapProject\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\selin\\OneDrive\\Documents\\GitHub\\EnginDemirogYazilimciGelistirmeKampi\\ReCapProject\\Entities\\Entities.csproj"
             }
           }
         }
